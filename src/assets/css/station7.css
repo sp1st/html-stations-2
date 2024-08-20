@@ -1,0 +1,3 @@
+a:where(:any-link, :enabled, summary):hover {
+  color: #008000;
+}
